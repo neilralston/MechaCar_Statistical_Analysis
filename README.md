@@ -7,7 +7,7 @@
 
    As illustrated in the table below, both the vehicle length and ground clearance variables provided a non-random amount of variance to the mpg values.
 
-![MPG_Regression](MPG_regression.PNG)
+   ![MPG_Regression](MPG_regression.PNG)
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
 
