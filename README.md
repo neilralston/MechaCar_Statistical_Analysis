@@ -14,13 +14,13 @@
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
 
-   The p-value of our linear regression analysis is 5.35e-11, which is less than our assumed significance level of 0.05%. 
+   The p-value of our linear regression analysis is 5.35e-11, which is less than an assumed significance level of 0.05%. 
    
-   Therefore, there is sufficient evidence to reject the null hypothesis, which means that the slope of our linear model is not zero.
+   Therefore, there is sufficient evidence to reject the null hypothesis, which means that the slope of this linear model is not zero.
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-   Yes, this linear model is an efficient predicotr of mpg based on the following results
+   Yes, this linear model is an efficient predicotr of mpg based on the following results:
    
    * p-value is < assumed significance level of 0.05%, suggesting significant variable impacts
    * Multiple r-squared value is > 0.70, suggesting strong correlation
