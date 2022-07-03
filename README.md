@@ -20,8 +20,10 @@
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
+   Yes, this linear model is an efficient predicotr of mpg based on the following results
    
-
+   * p-value is < assumed significance level of 0.05%, suggesting significant variable impacts
+   * Multiple r-squared value is > 0.70, suggesting strong correlation
 
 
 Deliverable 2: Summary Statistics on Suspension Coils
