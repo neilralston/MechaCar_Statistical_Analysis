@@ -5,7 +5,7 @@
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-* As illustrated in the table below, both the vehicle length and ground clearance variables provided a non-random amount of variance to the mpg values.
+   As illustrated in the table below, both the vehicle length and ground clearance variables provided a non-random amount of variance to the mpg values.
 
 ![MPG_Regression](MPG_regression.PNG)
 
