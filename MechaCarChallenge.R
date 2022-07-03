@@ -1,0 +1,5 @@
+library(dplyr)
+library(tidyverse)
+Challenge1_table <- read.csv(file='MechaCar_mpg.csv',check.names=F,stringsAsFactors = F)
+lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD,data=Challenge1_table) 
+summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD,data=Challenge1_table))
