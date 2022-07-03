@@ -5,9 +5,13 @@
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
+As illustrated in the table below, both the vehicle length and ground clearance variables provided a non-random amount of variance to the mpg values.
+
 ![MPG_Regression](MPG_regression.PNG)
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
+
+
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
