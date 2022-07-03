@@ -5,7 +5,7 @@
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-
+![MPG_Regression](MPG_regression.PNG)
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
 
