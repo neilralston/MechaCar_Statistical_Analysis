@@ -8,7 +8,8 @@
    As illustrated in the table below, both the vehicle length and ground clearance variables provided a non-random amount of variance to the mpg values.
    
    The vehicle length and ground clearance have a significant impact on mpg values. 
-
+   
+   
    ![MPG_Regression](MPG_regression.PNG)
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
