@@ -33,7 +33,7 @@
     
     ![Coil_All_Lots](Coil_Total_Summary.PNG)
     
-    However, Lot 3 does not meet the design specification when considered individually.  The variance for Lot 3 is 170.3.
+    However, Lot 3 does not meet the design specification when considered individually.  The variance for Lot 3 is 170.3 PSI.
     
     ![Coil_Individual_Lots](Coil_Lot_Summary.PNG)
     
