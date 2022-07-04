@@ -21,8 +21,8 @@
 
    Yes, this linear model is an efficient predicotr of mpg based on the following results:
    
-   * p-value is < assumed significance level of 0.05%, suggesting significant variable impacts
-   * Multiple r-squared value is > 0.70, suggesting strong correlation
+   * p-value is less than the assumed significance level of 0.05%, suggesting significant variable impacts
+   * Multiple r-squared value is greater than 0.70, suggesting strong correlation
 
 ## Summary Statistics on Suspension Coils
 
@@ -37,9 +37,17 @@
     
     ![Coil_Individual_Lots](Coil_Lot_Summary.PNG)
     
-    
+## T-Tests on Suspension Coils 
+ 
+1. Determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.  
+   The assumed significance level is 0.05%. 
+   
+   The p-value of all manufacturing lots compared to the population mean is 0.06.  This is close enough to the signficance level to conclude that the results are          statistically different.
+   
+   ![Coil_T-Test_All](Coil_t-test1.PNG)
+ 
+   
     
 
-Deliverable 3: T-Test on Suspension Coils
 
 Deliverable 4: Design a Study Comparing the MechaCar to the Competition
