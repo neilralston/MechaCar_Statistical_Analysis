@@ -7,7 +7,7 @@
 
    As illustrated in the table below, both the vehicle length and ground clearance variables provided a non-random amount of variance to the mpg values.
    
-   The vehicle length and ground clearance have a significant impact on mpg values. Less so but perhaps still significant is the vehicle 
+   The vehicle length and ground clearance have a significant impact on mpg values. Less so but perhaps still significant is the vehicle weight.
       
    ![MPG_Regression](MPG_regression.PNG)
 
@@ -26,7 +26,18 @@
 
 ## Summary Statistics on Suspension Coils
 
-1.  
+1.  The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
+    Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+    
+    The current manufacturing data meets this design specification for all manufacturing lots.  The variance is 62.3 PSI.
+    
+    ![Coil_All_Lots](Coil_Total_Summary.PNG)
+    
+    However, Lot 3 does not meet the design specification when considered individually.  The variance for Lot 3 is 170.3.
+    
+    ![Coil_Individual_Lots](Coil_Lot_Summary.PNG)
+    
+    
 
 Deliverable 3: T-Test on Suspension Coils
 
