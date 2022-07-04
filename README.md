@@ -7,9 +7,8 @@
 
    As illustrated in the table below, both the vehicle length and ground clearance variables provided a non-random amount of variance to the mpg values.
    
-   The vehicle length and ground clearance have a significant impact on mpg values. 
-   
-   
+   The vehicle length and ground clearance have a significant impact on mpg values. Less so but perhaps still significant is the vehicle 
+      
    ![MPG_Regression](MPG_regression.PNG)
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
@@ -25,8 +24,9 @@
    * p-value is < assumed significance level of 0.05%, suggesting significant variable impacts
    * Multiple r-squared value is > 0.70, suggesting strong correlation
 
+## Summary Statistics on Suspension Coils
 
-Deliverable 2: Summary Statistics on Suspension Coils
+1.  
 
 Deliverable 3: T-Test on Suspension Coils
 
