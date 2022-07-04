@@ -39,8 +39,7 @@
     
 ## T-Tests on Suspension Coils 
  
-1. Determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.  
-   The assumed significance level is 0.05%. 
+1. Determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. The assumed significance level is 0.05%. 
    
    The p-value of all manufacturing lots compared to the population mean is 0.06.  This is close enough to the signficance level to conclude that the results are          statistically different.
    
