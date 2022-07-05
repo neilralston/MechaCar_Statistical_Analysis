@@ -19,7 +19,7 @@
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-   Yes, this linear model is an efficient predicotr of mpg based on the following results:
+   Yes, this linear model is an efficient predictor of mpg based on the following results:
    
    * p-value is less than the assumed significance level of 0.05%, suggesting significant variable impacts
    * Multiple r-squared value is greater than 0.70, suggesting strong correlation
@@ -41,19 +41,19 @@
  
 1. Determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. The assumed significance level is 0.05%. 
    
-   The p-value of all manufacturing lots compared to the population mean is 0.06.  This is close enough to the signficance level to conclude that the results *are*          statistically different from the population mean.
+   The p-value of all manufacturing lots compared to the population mean is 0.06.  This is close enough to the significance level to conclude that the results *are*          statistically different from the population mean.
    
    ![Coil_T-Test_All](Coil_t-test1.PNG)
  
-   The p-value of Manufacturing Lot 1 compared to the population mean is 1.0.  This is greater than the signficance level, so it can be concluded that the results for    Lot 1 *are not* significantly different from the population mean.
+   The p-value of Manufacturing Lot 1 compared to the population mean is 1.0.  This is greater than the significance level, so it can be concluded that the results for    Lot 1 *are not* significantly different from the population mean.
    
    ![Coil_T-Test_Lot1](Coil_t-test2.PNG)
    
-   The p-value of Manufacturing Lot 2 compared to the population mean is 0.60.  This is greater than the signficance level, so it can be concluded that the results for    Lot 2 *are not* significantly different from the population mean.
+   The p-value of Manufacturing Lot 2 compared to the population mean is 0.60.  This is greater than the significance level, so it can be concluded that the results for    Lot 2 *are not* significantly different from the population mean.
    
    ![Coil_T-Test_Lot2](Coil_t-test3.PNG)
    
-   Finally, the p-value of Manufacturing Lot 3 compared to the population mean is 0.04.  This is less than the signficance level, so it can be concluded that the          results for Lot 3 *are* significantly different from the population mean.  This confirms the findings in Deliverable 2 that Manufacturing Lot 3 contains some          outlier results.
+   Finally, the p-value of Manufacturing Lot 3 compared to the population mean is 0.04.  This is less than the significance level, so it can be concluded that the          results for Lot 3 *are* significantly different from the population mean.  This confirms the findings in Deliverable 2 that Manufacturing Lot 3 contains some          outlier results.
    
    ![Coil_T-Test_Lot3](Coil_t-test4.PNG)
 
