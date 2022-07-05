@@ -55,6 +55,6 @@
    
    Finally, the p-value of Manufacturing Lot 3 compared to the population mean is 0.04.  This is less than the signficance level, so it can be concluded that the          results for Lot 3 *are* significantly different from the population mean.  This confirms the findings in Deliverable 2 that Manufacturing Lot 3 contains some          outlier results.
    
-
+   ![Coil_T-Test_Lot3](Coil_t-test4.PNG)
 
 Deliverable 4: Design a Study Comparing the MechaCar to the Competition
