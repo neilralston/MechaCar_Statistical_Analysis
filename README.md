@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 
-## Linear Regression to Predict MPG
+## Linear Regression to Predict MPG (Deliverable 1)
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -24,7 +24,7 @@
    * p-value is less than the assumed significance level of 0.05%, suggesting significant variable impacts
    * Multiple r-squared value is greater than 0.70, suggesting strong correlation
 
-## Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coils (Deliverable 2)
 
 1.  The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
     Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
@@ -37,7 +37,7 @@
     
     ![Coil_Individual_Lots](Coil_Lot_Summary.PNG)
     
-## T-Tests on Suspension Coils 
+## T-Tests on Suspension Coils (Deliverable 3)
  
 1. Determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. The assumed significance level is 0.05%. 
    
@@ -48,6 +48,13 @@
    The p-value of Manufacturing Lot 1 compared to the population mean is 1.0.  This is greater than the signficance level, so it can be concluded that the results for    Lot 1 *are not* significantly different from the population mean.
    
    ![Coil_T-Test_Lot1](Coil_t-test2.PNG)
+   
+   The p-value of Manufacturing Lot 2 compared to the population mean is 0.60.  This is greater than the signficance level, so it can be concluded that the results for    Lot 2 *are not* significantly different from the population mean.
+   
+   ![Coil_T-Test_Lot2](Coil_t-test3.PNG)
+   
+   Finally, the p-value of Manufacturing Lot 3 compared to the population mean is 0.04.  This is less than the signficance level, so it can be concluded that the          results for Lot 3 *are* significantly different from the population mean.  This confirms the findings in Deliverable 2 that Manufacturing Lot 3 contains some          outlier results.
+   
 
 
 Deliverable 4: Design a Study Comparing the MechaCar to the Competition
