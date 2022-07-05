@@ -61,11 +61,29 @@
 
 This section contains a short description of a statistical study that can quantify how the MechaCar performs against the competition.
 
+To compare its prototypes against competitive models, MechCar should seek to deliver a quality product.
+
 1. What metric or metrics are you going to test?
+   To test for quality, MechCar should test a new assembly line inspection procedure to determine if there is a change in the number of reported defects during the        first year of ownership per mile driven.
+
 2. What is the null hypothesis or alternative hypothesis?
+   The null hypothesis is that vehicles assembled using the new inspection procedure will have no change in reported defects during the first year of ownership over      competitive vehicles.
+   
+   The alternative hypothesis is that vehicles assembled using the new inspection procedure will have a reduction in reported defects during the first year of            ownership over competitive vehicles.
+   
 3. What statistical test would you use to test the hypothesis? And why?
+   A single-sample t-test could be used to compare the statistical significance of mean defects per mile during the first year of ownership between vehicles assembled    using the new inspection procedure and the population of all competitor vehicles.
+   
+   A two-sample t-test could be used to compare the statistical significance of mean defects per mile during the first year of ownership between vehicles assembed        using the new inspection procedure and similar MechCar models assembled without the new procedure.
+   
+   A regression analsysis could be used to predict the defects per mile driven during the first year of ownership based on the number of quality inspections completed    during assembly.
+
 4. What data is needed to run the statistical test?
 
+   This statistical test will require the following data:
+   * Number of defects reported by vehicle owners during the first year of ownership
+   * Number of miles driven by vehicles during the first year of ownership
+   * Number of quality inspections completed during vehicle assembly under MechCar's new program
 
 
 
