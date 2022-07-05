@@ -41,12 +41,13 @@
  
 1. Determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. The assumed significance level is 0.05%. 
    
-   The p-value of all manufacturing lots compared to the population mean is 0.06.  This is close enough to the signficance level to conclude that the results are          statistically different.
+   The p-value of all manufacturing lots compared to the population mean is 0.06.  This is close enough to the signficance level to conclude that the results *are*          statistically different from the population mean.
    
    ![Coil_T-Test_All](Coil_t-test1.PNG)
  
+   The p-value of Manufacturing Lot 1 compared to the population mean is 1.0.  This is greater than the signficance level, so it can be concluded that the results for    Lot 1 *are not* significantly different from the population mean.
    
-    
+   ![Coil_T-Test_Lot1](Coil_t-test2.PNG)
 
 
 Deliverable 4: Design a Study Comparing the MechaCar to the Competition
