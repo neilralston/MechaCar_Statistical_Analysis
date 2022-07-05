@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis (Module Challenge 15)
 
-[Link to MechaCar R code](MechaCarChallenge.R)
+[Link to MechaCar Challenge R code](MechaCarChallenge.R)
 
 ## Linear Regression to Predict MPG (Deliverable 1)
 
