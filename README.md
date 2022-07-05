@@ -85,5 +85,9 @@ To compare its prototypes against competitive models, MechCar should seek to del
    * Number of miles driven by vehicles during the first year of ownership
    * Number of quality inspections completed during vehicle assembly under MechCar's new program
 
-
+This project was prepared using the following:
+* R 4.2.1
+* R Studio 2022.02.3 Build 492
+* dplyr library
+* tidyverse library
 
