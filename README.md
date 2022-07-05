@@ -57,4 +57,15 @@
    
    ![Coil_T-Test_Lot3](Coil_t-test4.PNG)
 
-Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+## Study Design: MechaCar vs Competition
+
+This section contains a short description of a statistical study that can quantify how the MechaCar performs against the competition.
+
+1. What metric or metrics are you going to test?
+2. What is the null hypothesis or alternative hypothesis?
+3. What statistical test would you use to test the hypothesis? And why?
+4. What data is needed to run the statistical test?
+
+
+
+
