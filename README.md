@@ -74,9 +74,9 @@ To compare its prototypes against competitive models, MechCar should seek to del
 3. What statistical test would you use to test the hypothesis? And why?
    A single-sample t-test could be used to compare the statistical significance of mean defects per mile during the first year of ownership between vehicles assembled    using the new inspection procedure and the population of all competitor vehicles.
    
-   A two-sample t-test could be used to compare the statistical significance of mean defects per mile during the first year of ownership between vehicles assembed        using the new inspection procedure and similar MechCar models assembled without the new procedure.
+   A two-sample t-test could be used to compare the statistical significance of mean defects per mile during the first year of ownership between vehicles assembled        using the new inspection procedure and similar MechCar models assembled without the new procedure.
    
-   A regression analsysis could be used to predict the defects per mile driven during the first year of ownership based on the number of quality inspections completed    during assembly.
+   A regression analysis could be used to predict the defects per mile driven during the first year of ownership based on the number of quality inspections completed    during assembly.
 
 4. What data is needed to run the statistical test?
 
